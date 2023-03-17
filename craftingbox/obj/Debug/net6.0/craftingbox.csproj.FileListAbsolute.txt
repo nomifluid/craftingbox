@@ -1,0 +1,15 @@
+/Users/ever/Projects/craftingbox/craftingbox/bin/Debug/net6.0/craftingbox
+/Users/ever/Projects/craftingbox/craftingbox/bin/Debug/net6.0/craftingbox.deps.json
+/Users/ever/Projects/craftingbox/craftingbox/bin/Debug/net6.0/craftingbox.runtimeconfig.json
+/Users/ever/Projects/craftingbox/craftingbox/bin/Debug/net6.0/craftingbox.dll
+/Users/ever/Projects/craftingbox/craftingbox/bin/Debug/net6.0/craftingbox.pdb
+/Users/ever/Projects/craftingbox/craftingbox/obj/Debug/net6.0/craftingbox.csproj.AssemblyReference.cache
+/Users/ever/Projects/craftingbox/craftingbox/obj/Debug/net6.0/craftingbox.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ever/Projects/craftingbox/craftingbox/obj/Debug/net6.0/craftingbox.AssemblyInfoInputs.cache
+/Users/ever/Projects/craftingbox/craftingbox/obj/Debug/net6.0/craftingbox.AssemblyInfo.cs
+/Users/ever/Projects/craftingbox/craftingbox/obj/Debug/net6.0/craftingbox.csproj.CoreCompileInputs.cache
+/Users/ever/Projects/craftingbox/craftingbox/obj/Debug/net6.0/craftingbox.dll
+/Users/ever/Projects/craftingbox/craftingbox/obj/Debug/net6.0/refint/craftingbox.dll
+/Users/ever/Projects/craftingbox/craftingbox/obj/Debug/net6.0/craftingbox.pdb
+/Users/ever/Projects/craftingbox/craftingbox/obj/Debug/net6.0/craftingbox.genruntimeconfig.cache
+/Users/ever/Projects/craftingbox/craftingbox/obj/Debug/net6.0/ref/craftingbox.dll
